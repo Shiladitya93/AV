@@ -6,6 +6,8 @@ To understand the factors that lead a person to look for a job change, the agenc
 # Link Reference
 https://datahack.analyticsvidhya.com/contest/janatahack-hr-analytics/
 
+
+# Approach: 
 To predict the probability of an enrollee to look for a new job I used XGB Classifier as the dataset was imbalanced and ensemble models are good at handling them.
 
 Metric for judgement : ROC AUC
